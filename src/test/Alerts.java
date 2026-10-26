@@ -11,6 +11,7 @@ public class Alerts {
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 		driver.switchTo().alert();
 		driver.switchTo().alert().dismiss();
-		
+		System.out.println("abc");
+		System.out.println("xyz");
 	}
 }

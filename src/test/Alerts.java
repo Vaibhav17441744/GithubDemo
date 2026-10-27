@@ -13,5 +13,7 @@ public class Alerts {
 		driver.switchTo().alert().dismiss();
 		System.out.println("abc");
 		System.out.println("xyz");
+		System.out.println("hello");
+		System.out.println("word");
 	}
 }
